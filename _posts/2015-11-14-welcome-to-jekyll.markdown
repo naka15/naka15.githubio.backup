@@ -1,4 +1,5 @@
 ---
+comments: true
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2015-11-14 16:52:07
