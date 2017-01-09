@@ -1,4 +1,3 @@
-_site
-.DS_Store
-nbproject
+_site*
 .sass-cache
+.jekyll-metadata
