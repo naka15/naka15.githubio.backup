@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "Welcome to Jekyll!"
-date:   2017-01-15 16:40:00
+title:  "스프링 시작하기"
+date:   2017-01-15 16:40:00
 categories: spring
 tags: spring
 image: /images/pic03.jpg
