@@ -2,9 +2,9 @@
 layout: post
 comments: true
 title:  "Welcome to Jekyll!"
-date:   2015-11-14 16:52:07
-categories: jekyll update
-tags: jekyll update
+date:   2017-01-15 16:40:00
+categories: spring
+tags: spring
 image: /images/pic03.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
