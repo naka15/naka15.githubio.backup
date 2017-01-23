@@ -27,3 +27,4 @@ tags: spring
 ## 결론 
   * get/post 뿐만아니라 모든 부분에서 개념과 용도를 확실히 파악하고 활용해야 한다. 
   * 그러기위해선 역시 많이 공부하는 방법밖에는 없다. 
+[링크](https://naka15.github.io/spring/2017/01/23/2%EC%A3%BC%EC%B0%A8%ED%9A%8C%EA%B3%A0.html "링크제목")
