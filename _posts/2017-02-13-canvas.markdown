@@ -20,8 +20,8 @@ tags: spring
 ### 사각형 회전 시키기
  사각형을 회전 시키는 예제를 통해 1번과 2번 설명을 이해해 보자.
  
- ```html
- <!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -43,6 +43,7 @@ Explorer 8 and earlier versions.</p>
 </body>
 </html>
 ```
+
 위 코드의 결과는 다음과 같은데, 캔버스를 먼저 회전시킨 후에 사각형을 그려줬다.
 ![rot.png](/files/1885137965714528079)
 위의 코드에서 아래와 같이 순서를 바꿔 보았다.
