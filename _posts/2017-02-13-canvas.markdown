@@ -45,7 +45,7 @@ Explorer 8 and earlier versions.</p>
 ```
 
 위 코드의 결과는 다음과 같은데, 캔버스를 먼저 회전시킨 후에 사각형을 그려줬다.
-![rot.png](/posts/)
+![rot.png](/posts/rot.png)
 위의 코드에서 아래와 같이 순서를 바꿔 보았다.
 ```html
 ctx.fillRect(50, 20, 100, 50);      //순서를 바꿔보았다
