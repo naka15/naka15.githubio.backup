@@ -40,3 +40,5 @@ tags: spring
 |cp test1.txt test2.txt|test2.txt라는 이름으로 파일 복사|
 |mv test1.txt test2.txt|파일 이동|
 |rm 파일명 | 파일 삭제|
+
+## Eclipse
