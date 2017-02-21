@@ -42,3 +42,29 @@ tags: spring
 |rm 파일명 | 파일 삭제|
 
 ## Eclipse
+* 현재 자주 쓰는 단축키를 정리해 보았다.
+### 단축키
+|key|설명|
+|----|-----|
+|ctrl+s|현재 파일 저장|
+|ctrl+shift+s|전체 파일 저장|
+|ctrl+l|입력라인으로 이동|
+|alt+shift+s|toString, getter, setter 등 context menu|
+|ctrl+shift+r|파일명 검색|
+|ctrl+f|현재파일에서 단어 검색|
+|alt+tab|탭 삭제|
+|ctrl+방향키|단어 단위 이동|
+|alt+shift+j|주석 템플릿 생성|
+|ctrl+shift+/|블럭 주석 처리|
+|ctrl+/|헌재 행 주석 처리|
+|ctrl+PgUp/PgDn/|열려있는 파일 탭 이동|
+|ctrl+F4 or ctrl+w|현재 파일 닫기|
+|ctrl+shift+F4 or ctrl+shift+w|모든 파일 닫기|
+|ctrl+d|현재 줄 삭제|
+|ctrl+space|자동완성 목록 띄우기|
+|ctrl+shift+x|알파벳 대문자로 변경|
+|ctrl+shift+y|알파벳 소문자로 변경|
+|ctrl+shift+f|코드 자동정렬|
+|ctrL+shift+o|자동 import|
+|F2|커서 위치의 명령문 설명 팝업|
+|F3|커서 위치의 명령문 선언부로 이동|
