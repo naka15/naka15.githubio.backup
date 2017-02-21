@@ -21,9 +21,9 @@ tags: spring
 |ctrl + l| 화면정리 (clear)|
 |ctrl + s, ctrl + q| 스크롤중단 및 재개|
 
-### 명령어
+### 명령어 
 
-| 명령어| 설명 |
+|명령어| 설명 |
 |------|-------|
 |ssh hcon.nhnent.com| 서버 접속 |
 |rlogin –l 아이디 호스트명| 서버 접속|
