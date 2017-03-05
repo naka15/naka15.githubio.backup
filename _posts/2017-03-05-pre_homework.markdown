@@ -100,6 +100,7 @@ public class test {
 
 
 ## 3. XML 파서인 SAX 와 DOM 파서의 특징 및 장단점을 서술하시오.
+
 |구분|DOM|SAX| 
 |----|----|---| 
 |읽는방식|xml문서 전체를 메모리에 로드하여 읽음|xml문서를 순차적으로 읽음| 
@@ -158,6 +159,9 @@ public class test {
 ## 9. JMH 를 사용하여 Java SE 에 있는 List 를 구현한 클래스들의 추가/조회/삭제 기능의 성능을 비교하시오.
 ![list.png](/images/list.png)
 
+추가 : 큰 차이없음
+조회 : 링크드리스트가 다른 리스트에 비해 느리다
+삭제 : 큰 차이없음
 ## 10. JMH 를 사용하여 Java SE 에 있는 Map을 구현한 클래스들의 추가/조회/삭제 기능의 성능을 비교하시오.
 ![map.png](/images/map.png)
 
