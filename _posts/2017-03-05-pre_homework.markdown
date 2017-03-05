@@ -105,13 +105,16 @@ public class test {
 |메모리|메모리 사용량 많음, xml파일의 10배| 메모리 사용량 적음, xml파일의 2배| 
 |장점|메모리에 전부 있기 때문에 노드들을 빠르게 검색 가능<br>데이터 수정, 구조변경 용이|메모리 사용량이 적고 읽기 속도가 빠름| 
 |단점|메모리사용량이 많다|dom 방식에 비해 구현이 복잡하다| 
+
 ## 4. JMX 에 대하여 서술하시오. 
     Java Management Extensions, 자바 애플리케이션 서버 모니터링 기술  
     인스트루먼테이션 레벨, 에이전트 레벨, 분산 서비스 레벨, 추가 가능한 관리용 프로토콜 API 등 4가지 레벨 구조  
-## 5. JMX를 모니터링할 수 있는 도구를 3개 이상 나열하고 링크도 포함시키시오.
+    
+## 5. JMX를 모니터링할 수 있는 도구를 3개 이상 나열하고 링크도 포함시키시오. 
     Visual VM - http://visualvm.java.net/ 
     Mission Control - http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html
-    jconsole - http://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html
+    jconsole - http://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html 
+    
 ## 6. Web access log 의 패턴을 확인해 보고, 각 패턴에 대하여 서술하시오.
 ### Common 로그 형식
      LogFormat "%h %l %u %t \"%r\" %>s %b" common
@@ -130,7 +133,8 @@ public class test {
     서버 응답 코드
 * %b~~~~
     클라이언트에 보내는 내용의 크기, 없으면 '-'
-### Combined 로그 형식
+    
+### Combined 로그 형식 
     LogFormat "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\"" combined
     CustomLog log/access_log combined
 * \"%{Referer}i\"
@@ -144,10 +148,12 @@ public class test {
 ### Parallel Compacting Collector
 ### Concurrent Mark-Sweep Collector
 ### Garbage First
+
 ## 8. GC 상황을 모니터링할 수 있는 도구를 3개 이상 나열하고, 링크도 포함시키시오.
 * Visual GC - http://www.oracle.com/technetwork/java/visualgc-136680.html
 * Jstat - http://docs.oracle.com/javase/7/docs/technotes/tools/share/jstat.html
 * GCeasy - http://gceasy.io/
+
 ## 9. JMH 를 사용하여 Java SE 에 있는 List 를 구현한 클래스들의 추가/조회/삭제 기능의 성능을 비교하시오.
 ![list.png](/images/list.png)
 
