@@ -99,17 +99,17 @@ public class test {
 
 
 ## 3. XML 파서인 SAX 와 DOM 파서의 특징 및 장단점을 서술하시오.
-|구분|DOM|SAX|
-|----|----|---|
-|읽는방식|xml문서 전체를 메모리에 로드하여 읽음|xml문서를 순차적으로 읽음|
-|메모리|메모리 사용량 많음, xml파일의 10배| 메모리 사용량 적음, xml파일의 2배|
-|장점|메모리에 전부 있기 때문에 노드들을 빠르게 검색 가능<br>데이터 수정, 구조변경 용이|메모리 사용량이 적고 읽기 속도가 빠름|
-|단점|메모리사용량이 많다|dom 방식에 비해 구현이 복잡하다|
-## 4. JMX 에 대하여 서술하시오.
-    Java Management Extensions, 자바 애플리케이션 서버 모니터링 기술
-    인스트루먼테이션 레벨, 에이전트 레벨, 분산 서비스 레벨, 추가 가능한 관리용 프로토콜 API 등 4가지 레벨 구조
+|구분|DOM|SAX| 
+|----|----|---| 
+|읽는방식|xml문서 전체를 메모리에 로드하여 읽음|xml문서를 순차적으로 읽음| 
+|메모리|메모리 사용량 많음, xml파일의 10배| 메모리 사용량 적음, xml파일의 2배| 
+|장점|메모리에 전부 있기 때문에 노드들을 빠르게 검색 가능<br>데이터 수정, 구조변경 용이|메모리 사용량이 적고 읽기 속도가 빠름| 
+|단점|메모리사용량이 많다|dom 방식에 비해 구현이 복잡하다| 
+## 4. JMX 에 대하여 서술하시오. 
+    Java Management Extensions, 자바 애플리케이션 서버 모니터링 기술  
+    인스트루먼테이션 레벨, 에이전트 레벨, 분산 서비스 레벨, 추가 가능한 관리용 프로토콜 API 등 4가지 레벨 구조  
 ## 5. JMX를 모니터링할 수 있는 도구를 3개 이상 나열하고 링크도 포함시키시오.
-    Visual VM - http://visualvm.java.net/
+    Visual VM - http://visualvm.java.net/ 
     Mission Control - http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html
     jconsole - http://docs.oracle.com/javase/7/docs/technotes/guides/management/jconsole.html
 ## 6. Web access log 의 패턴을 확인해 보고, 각 패턴에 대하여 서술하시오.
