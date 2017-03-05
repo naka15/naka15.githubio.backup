@@ -7,6 +7,7 @@ date:   2017-02-20 03:00:00
 categories: spring
 tags: spring
 ---  
+
 # 사전과제 - [교육] 2017.03.06. 성능 - 이상민 수석 
 ## 1. Map, Set, List, Queue 차이점 
 ### Map 
@@ -159,6 +160,7 @@ public class test {
 
 ## 10. JMH 를 사용하여 Java SE 에 있는 Map을 구현한 클래스들의 추가/조회/삭제 기능의 성능을 비교하시오.
 ![map.png](/images/map.png)
+
 추가 : 트리맵이 다른 맵보다 약 2배정도 느리다
 삭제 : 트리맵이 약 3배 정도 느리다
 조회: 트리맵이 약 2~3배 정도 느리다
